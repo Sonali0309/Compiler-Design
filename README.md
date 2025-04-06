@@ -1,5 +1,5 @@
 # Compiler-Design
-Crearting a Virtual Compiler with Custom Operator 
+Crearting Compilers with Custom Operator 
 
 # Custom Mini Compiler Project
 
@@ -63,6 +63,8 @@ Implemented as a new token and handled in grammar rules and assembly generation.
 - `README.md` – You’re reading it
 
 ###  Build & Run Instructions
+
+install and set up MSYS2
 
 ```bash
 flex lexer.l
