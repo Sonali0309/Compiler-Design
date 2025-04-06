@@ -18,3 +18,7 @@
 .                    { printf("Unexpected character: %s\n", yytext); }
 
 %%
+
+int yywrap() {
+    return 1;
+}
